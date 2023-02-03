@@ -113,5 +113,5 @@ id | Name | Link
 110 | ArtStation - yin yuming | https://www.artstation.com/yinyuming
 111 | ArtStation - Yongsub Noh (YONG) | https://www.artstation.com/yong
 112 | Anato Finnstark is creating Illustration, Drawings \| Patreon | https://www.patreon.com/anatofinnstark
-113 | Mimi N are creating SUN Project - Anime Art | Patreon \| https://www.patreon.com/mimi_n
+113 | Mimi N are creating SUN Project - Anime Art \| Patreon | https://www.patreon.com/mimi_n
 114 | MonoriRogue is creating Art, Illustrations, Pretty Stuff :) \| Patreon | https://www.patreon.com/monorirogue
