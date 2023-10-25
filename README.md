@@ -1,4 +1,4 @@
-# awesome-top-twitter-artist
+# awesome-artist-selection
 id | Name | Link
 -|-|-
 001 | AYMRC (@AYMRC) / Twitter #ANIMATION | https://twitter.com/AYMRC
